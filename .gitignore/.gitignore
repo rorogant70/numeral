@@ -1,0 +1,11 @@
+numeral = ['20', '2', '13', '4', '30', '15', '67', '99', '3']
+
+print ("20,2,13,4,30,15,67,99,3")
+
+#numeral == x
+
+def secnd_largest(x):
+    list.sort(numeral)
+    print(numeral[7])
+
+secnd_largest(numeral)
